@@ -4,8 +4,8 @@
  <br> <sup>21-year-old with a massive heart for cats.
  <br> follow me if you love felines.</sup>
 
-  <br> <ins>please consider donating.</ins>
-  <br><sup><a href="https://www.gofundme.com/f/enxh8-hurricane-relief-fund">one</a> <a href="https://www.gofundme.com/f/help-us-fly-supplies-to-western-nc-after-hurricane-helene">two</a> <a href="https://www.gofundme.com/c/act/hurricane-helene">three</a></sup>
+  <br> <ins>please consider clicking.</ins>
+  <br><sup><a href="https://arab.org/click-to-help/palestine/">ദ്ദി ≽^⎚˕⎚^≼ .ᐟ</a></sup>
     <br><p><img src='https://i.imgur.com/S9cI1Py.gif'>
 
  $${\color{#ff6a1a}the \space tiniest \space of \space notes:}$$ 
