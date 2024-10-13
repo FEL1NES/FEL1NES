@@ -9,7 +9,7 @@
   <br><sup><a href="https://www.gofundme.com/f/enxh8-hurricane-relief-fund">one</a> <a href="https://www.gofundme.com/f/help-us-fly-supplies-to-western-nc-after-hurricane-helene">two</a> <a href="https://www.gofundme.com/c/act/hurricane-helene">three</a></sup>
     <br><p><img src='https://i.imgur.com/S9cI1Py.gif'>
 
- $${\color{#fb8f9f}the \space tiniest \space of \space notes:}$$ 
+ $${\color{#ff6a1a}the \space tiniest \space of \space notes:}$$ 
 <br> <sup><sup>sometimes i sit on the safe server when i either want to work on ponies or am overwhelmed.</sup>
 
 <details>
