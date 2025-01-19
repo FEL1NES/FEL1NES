@@ -2,7 +2,7 @@
 
  <br> <b>cat</b>     ‎(<i>they/nya/she</i>)
  <br> <sup>22-year-old with a massive heart for cats.
- <br> follow me if you love felines.</sup>
+ <br>i often leave my github link when i do strawpage drawings. if you're here from that, then hai!!</sup>
 
   <br> <ins>please consider clicking.</ins>
   <br><sup><a href="https://arab.org/click-to-help/palestine/">ദ്ദി ≽^⎚˕⎚^≼ .ᐟ</a></sup>
