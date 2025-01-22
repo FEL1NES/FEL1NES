@@ -1,4 +1,4 @@
-<div align='center'><p><img src='https://i.imgur.com/do0J7tT.gif'
+<div align='center'><p><img src='https://i.imgur.com/PuRq6rG.gif'
 
  <br> <b>cat</b>     ‎(<i>they/nya/she</i>)
  <br> <sup>22-year-old with a massive heart for cats.
@@ -8,7 +8,7 @@
   <br><sup><a href="https://arab.org/click-to-help/palestine/">ദ്ദി ≽^⎚˕⎚^≼ .ᐟ</a></sup>
     <br><p><img src='https://i.imgur.com/S9cI1Py.gif'>
 
- $${\color{#ff6a1a}the \space tiniest \space of \space notes:}$$ 
+ $${\color{#8aa8b2}the \space tiniest \space of \space notes:}$$ 
 <br> <sup><sup>sometimes i sit on the safe server when i either want to work on ponies or am overwhelmed.</sup>
 
 <details>
