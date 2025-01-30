@@ -1,4 +1,4 @@
-<div align='center'><p><img src='https://i.imgur.com/do0J7tT.gif'
+<div align='center'><p><img src='https://i.imgur.com/19RNHcS.gif'
 
  <br> <b>cat</b>     ‎(<i>they/nya/she</i>)
  <br> <sup>22-year-old with a massive heart for cats.
