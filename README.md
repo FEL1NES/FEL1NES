@@ -8,7 +8,7 @@
   <br><sup><a href="https://arab.org/click-to-help/palestine/">ദ്ദി ≽^⎚˕⎚^≼ .ᐟ</a></sup>
     <br><p><img src='https://i.imgur.com/S9cI1Py.gif'>
 
- $${\color{#f6ed50}the \space tiniest \space of \space notes:}$$ 
+ $${\color{#fdc4a7}the \space tiniest \space of \space notes:}$$ 
 <br> <sup><sup>sometimes i sit on the safe server when i either want to work on ponies or am overwhelmed.</sup>
 
 <details>
