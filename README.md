@@ -17,4 +17,10 @@
         <img alt="Visitor Stats" 
             src="https://widgetbite.com/stats/<FEL1NES>"/>  
     </div></details>
+<br>
+
+<details>
+<summary>spotify</summary>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=fec1a5&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&redirect=true)</details>
 
