@@ -1,4 +1,4 @@
-<div align='center'><p><img src='https://i.imgur.com/19RNHcS.gif'
+<div align='center'><p><img src='https://i.imgur.com/Ee3D6Zh.gif'
 
  <br> <b>cat</b>     ‎(<i>they/nya/she</i>)
  <br> <sup>22-year-old with a massive heart for cats.
@@ -8,7 +8,7 @@
   <br><sup><a href="https://arab.org/click-to-help/palestine/">ദ്ദി ≽^⎚˕⎚^≼ .ᐟ</a></sup>
     <br><p><img src='https://i.imgur.com/S9cI1Py.gif'>
 
- $${\color{#fdc4a7}the \space tiniest \space of \space notes:}$$ 
+ $${\color{#79a7a5}the \space tiniest \space of \space notes:}$$ 
 <br> <sup><sup>sometimes i sit on the safe server when i either want to work on ponies or am overwhelmed.</sup>
 
 <details>
@@ -22,5 +22,5 @@
 <details>
 <summary>spotify</summary>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=fec1a5&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&redirect=true)</details>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=novatorem&show_offline=true&background_color=79a7a5&interchange=false&bar_color=fec1a5&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&redirect=true)</details>
 
