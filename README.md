@@ -1,4 +1,4 @@
-<div align='center'><p><img src='https://i.imgur.com/F3TSLft.png'
+<div align='center'><p><img src='https://i.imgur.com/gQ9EWWz.png'
 
  <br> <b>cat</b>     ‎(<i>they/nya/she</i>)
  <br> <sup>22-year-old with a massive heart for cats.
@@ -10,7 +10,7 @@
 
 <br> <sup><ins>IMPORTANT!!</ins> if anyone could make me a TOBOR skin from mysims kingdom, please add me on discord: purrfectos</sup>
 
- $${\color{#971d12}the \space tiniest \space of \space notes:}$$ 
+ $${\color{#544e98}the \space tiniest \space of \space notes:}$$ 
 <br> <sup><sup>sometimes i sit on the safe server when i either want to work on ponies or am overwhelmed.</sup>
 
 <details>
@@ -24,5 +24,5 @@
 <details>
 <summary>spotify</summary>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=novatorem&show_offline=true&background_color=79a7a5&interchange=false&bar_color=69a4a0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&redirect=true)</details>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=novatorem&show_offline=true&background_color=ca362c&interchange=false&bar_color=ca362c&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&redirect=true)</details>
 
