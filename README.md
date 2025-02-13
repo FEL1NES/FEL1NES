@@ -8,6 +8,8 @@
   <br><sup><a href="https://arab.org/click-to-help/palestine/">ദ്ദി ≽^⎚˕⎚^≼ .ᐟ</a></sup>
     <br><p><img src='https://i.imgur.com/S9cI1Py.gif'>
 
+<br> <sup><ins>IMPORTANT!!</ins> if anyone could make me a TOBOR skin from mysims kingdom, please add me on discord: purrfectos</sup>
+
  $${\color{#971d12}the \space tiniest \space of \space notes:}$$ 
 <br> <sup><sup>sometimes i sit on the safe server when i either want to work on ponies or am overwhelmed.</sup>
 
