@@ -14,9 +14,9 @@
 <br> <sup><sup>sometimes i sit on the safe server when i either want to work on ponies or am overwhelmed.</sup>
 
 <details>
-<summary>views</summary>
+<summary>views</summary><h5 align="center">
  
-![](https://komarev.com/ghpvc/?username=FEL1NES&color=6a60a4&label=🐈‍⬛Ꮺ+۰&base=3056) </details>
+![](https://komarev.com/ghpvc/?username=FEL1NES&color=6a60a4&label=🐈‍⬛Ꮺ+۰&base=3056) </h5></details>
 <br>
 
 <details>
