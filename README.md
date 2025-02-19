@@ -15,10 +15,8 @@
 
 <details>
 <summary>views</summary>
- <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<FEL1NES>"/>  
-    </div></details>
+ 
+![](https://komarev.com/ghpvc/?username=FEL1NES&color=6a60a4&label=🐈‍⬛Ꮺ+۰&base=3056) </details>
 <br>
 
 <details>
