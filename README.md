@@ -3,7 +3,6 @@
  <br> <b>cat</b>     ‎(<i>they/nya/she</i>)
  <br> <sup>22-year-old with a massive heart for cats.
  <br>i often leave my github link when i do strawpage drawings. if you're here from that, then hai!!</sup>
- <br><sup>i'm tired of atabook. sign my neospring instead</sup>
 <br> <sup>i get so excited whenever i get a new follower on here. grabs u guys like <a href="https://i.pinimg.com/736x/d3/ca/bd/d3cabdd201a89407ce65576a77242ba9.jpg">this</a></sup>
 <br> <sup>heh... you should make me a catwoman skin. i have 32 and counting. i would love to add to my collection.</sup>
 
@@ -24,4 +23,4 @@
 <summary>spotify</summary>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=novatorem&show_offline=true&background_color=ca362c&interchange=false&bar_color=ca362c&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&redirect=true)</details>
-
+ <br><sup>i'm tired of atabook. sign my neospring instead</sup>
