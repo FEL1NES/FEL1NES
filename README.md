@@ -23,4 +23,4 @@
 <summary>spotify</summary>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=novatorem&show_offline=true&background_color=ca362c&interchange=false&bar_color=ca362c&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&redirect=true)</details>
- <br><sup>i'm tired of atabook. sign my neospring instead</sup>
+ <br><sup>if any of you want to do matching github profiles with <a href="https://i.imgur.com/MzBu1M9.jpeg">this</a> art please lmk. i will edit something up for us.</sup>
