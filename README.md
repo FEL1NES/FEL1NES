@@ -1,5 +1,5 @@
 <div align='center'><p><img src='https://i.imgur.com/fncbVBb.png'
-
+<br><p><a href="https://open.spotify.com/user/joji.99?si=48f481a941db4879"><img src='https://i.imgur.com/nFtLfcT.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.pinterest.com/lucky1ad/"><img src='https://i.imgur.com/34sv75a.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://x.com/meowmiracIe"><img src='https://i.imgur.com/GgRbbKn.png'></a></br>
  <br> <b>cat</b>     ‎(<i>they/nya/she</i>)
  <br> <sup>22-year-old with a massive heart for cats.
  <br>i often leave my github link when i do strawpage drawings. if you're here from that, then hai!!</sup>
@@ -18,9 +18,7 @@
  
 ![](https://komarev.com/ghpvc/?username=FEL1NES&color=c94c87&label=Ꮺ+۰&base=5056) </h5></details>
 <br>
-
 <details>
 <summary>spotify</summary>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=novatorem&show_offline=true&background_color=d8e8c2&interchange=false&bar_color=d8e8c2&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&redirect=true)</details>
- <br><sup>if any of you want to do matching github profiles with <a href="https://i.imgur.com/MzBu1M9.jpeg">this</a> art please lmk. i will edit something up for us.</sup>
