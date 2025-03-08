@@ -1,5 +1,5 @@
 <div align='center'><p><img src='https://i.imgur.com/fncbVBb.png'
-<br><p><a href="https://open.spotify.com/user/joji.99?si=48f481a941db4879"><img src='https://i.imgur.com/nFtLfcT.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.pinterest.com/lucky1ad/"><img src='https://i.imgur.com/34sv75a.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://x.com/meowmiracIe"><img src='https://i.imgur.com/GgRbbKn.png'></a></br>
+<br><p><a href="https://open.spotify.com/user/joji.99?si=48f481a941db4879"><img src='https://i.imgur.com/nFtLfcT.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.pinterest.com/lucky1ad/"><img src='https://i.imgur.com/34sv75a.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://x.com/meowmiracIe"><img src='https://i.imgur.com/GgRbbKn.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.last.fm/user/purrrfecto"><img src='https://i.imgur.com/2QRQBHo.png'></a></br>
  <br> <b>cat</b>     ‎(<i>they/nya/she</i>)
  <br> <sup>22-year-old with a massive heart for cats.
  <br>i often leave my github link when i do strawpage drawings. if you're here from that, then hai!!</sup>
