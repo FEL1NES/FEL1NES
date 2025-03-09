@@ -12,6 +12,7 @@
 
  $${\color{#c94c87}the \space tiniest \space of \space notes:}$$ 
 <br> <sup><sup>sometimes i sit on the safe server when i either want to work on ponies or am overwhelmed.</sup>
+<br><sup><sup>i no longer follow people back on github. it's hard to keep up with! this is not to say that i don't appreciate those who do follow me. thank you (´▽`ʃ♡ƪ)</sup>
 
 <details>
 <summary>views</summary><h5 align="center">
@@ -22,3 +23,5 @@
 <summary>spotify</summary>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=novatorem&show_offline=true&background_color=d8e8c2&interchange=false&bar_color=d8e8c2&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&redirect=true)</details>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1500&pause=500&color=D8E8C2&center=true&width=435&lines=she'll+just+tell+you;that+she+came+in+the;year+of+the+cat+!" alt="Typing SVG" /></a>
