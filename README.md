@@ -12,6 +12,7 @@
 
  $${\color{#c94c87}the \space tiniest \space of \space notes:}$$ 
 <br><sup><sup>i <ins>no longer follow</ins> people back on github. it's hard to keep up with! this is not to say that i don't appreciate those who do follow me. thank you (´▽`ʃ♡ƪ)</sup>
+<br><sup><sup>idgaf if your pony has the same colors as mine. nobody on this game owns a certain color palette. as long as your colors aren't in the same place as mine, then i don't care</sup>
 
 <details>
 <summary>views</summary><h5 align="center">
