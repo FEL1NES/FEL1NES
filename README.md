@@ -20,6 +20,6 @@
 <details>
 <summary>spotify</summary>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=purrrfecto&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=000000&width=250)</details>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=ed6983&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</details>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1500&pause=500&color=D8E8C2&center=true&width=435&lines=she'll+just+tell+you;that+she+came+in+the;year+of+the+cat+!" alt="Typing SVG" /></a>
