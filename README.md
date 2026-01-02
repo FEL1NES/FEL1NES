@@ -1,7 +1,7 @@
 <div align='center'><p><img src='https://i.imgur.com/fncbVBb.png'
 <br><p><a href="https://open.spotify.com/user/joji.99?si=48f481a941db4879"><img src='https://i.imgur.com/nFtLfcT.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.pinterest.com/lucky1ad/"><img src='https://i.imgur.com/34sv75a.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://x.com/meowmiracIe"><img src='https://i.imgur.com/GgRbbKn.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.last.fm/user/purrrfecto"><img src='https://i.imgur.com/2QRQBHo.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://steamcommunity.com/id/ire14nd/"><img src='https://file.garden/Z8e4FtCgCiGe0RA7/ertert.png'></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.roblox.com/users/3665333159/profile/"><img src='https://file.garden/Z8e4FtCgCiGe0RA7/wetwe.png'></a>‎ ‎ ‎ ‎ ‎ <a href="https://toyhou.se/catvodka"><img src='https://i.imgur.com/QWrxc3i.png'></a>‎</br>
  <br> <b>cat</b>     ‎(<i>they/nya/she</i>)
- <br> <sup>22-year-old with a massive heart for cats.
+ <br> <sup>23-year-old with a massive heart for cats.
 
   <br> <ins>please consider clicking.</ins>
   <br><sup><a href="https://arab.org/click-to-help/palestine/">ദ്ദി ≽^⎚˕⎚^≼ .ᐟ</a></sup>
