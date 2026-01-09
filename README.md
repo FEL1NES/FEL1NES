@@ -13,7 +13,7 @@
 
 <details><summary><sup>views</sup></summary><h5 align="center">
  
-![](https://komarev.com/ghpvc/?username=FEL1NES&color=c94c87&label=Ꮺ+۰&base=5056) </h5></details>
+![](https://komarev.com/ghpvc/?username=FEL1NES&color=c94c87&label=Ꮺ+۰&base=10056) </h5></details>
 <br><details><summary><sup>spotify</sup></summary>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=ed6983&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</details>
