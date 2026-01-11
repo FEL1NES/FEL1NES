@@ -19,3 +19,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=ed6983&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</details>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1500&pause=500&color=D8E8C2&center=true&width=435&lines=she'll+just+tell+you;that+she+came+in+the;year+of+the+cat+!" alt="Typing SVG" /></a>
+
+<br> <b>LF</b>     ‎someone to skin commission on pt!
+ <br> <sup>it's of my OC. i have a very odd issue of making skins of my own OC. i'm preferably looking for someone to do it in <a href="https://i.postimg.cc/Y9K75wY0/lalalal.png">this</a> type of style. please DM on discord if you're able to do this! @purrfectos -- thank you!! <3
