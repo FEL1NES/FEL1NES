@@ -46,9 +46,6 @@ $\color{#c94c87}{\textsf{they / she / nya}}$ $\color{#D2E8BD}{\textsf{+ 23 years
 <p><a href="https://open.spotify.com/user/joji.99?si=48f481a941db4879"><img src="https://i.imgur.com/nFtLfcT.png" width="32"></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.pinterest.com/lucky1ad/"><img src='https://i.imgur.com/34sv75a.png' width="32"></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://x.com/meowmiracIe"><img src='https://i.imgur.com/GgRbbKn.png' width="32"></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.last.fm/user/purrrfecto"><img src='https://i.imgur.com/2QRQBHo.png' width="32"></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://steamcommunity.com/id/ire14nd/"><img src='https://file.garden/Z8e4FtCgCiGe0RA7/ertert.png' width="32"></a>‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.roblox.com/users/3665333159/profile/"><img src='https://file.garden/Z8e4FtCgCiGe0RA7/wetwe.png' width="32"></a>‎ ‎ ‎ ‎ ‎ <a href="https://toyhou.se/catvodka"><img src='https://i.imgur.com/QWrxc3i.png' width="32"></a>
 <br><img src="https://i.imgur.com/EaDcI4h.png">
 
-<br>
-
-<img src="https://i.imgur.com/w6hUdwX.png" height="450" align="right">
 
 <br>
 
