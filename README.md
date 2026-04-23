@@ -94,7 +94,8 @@ $\color{#d2e8bd}{\textsf{just some extra links}}$ $\color{#d2e8bd}{\textsf{about
 <summary>$\color{#DE4F86}{\textsf{final note}}$</summary>
 
  $\color{#d2e8bd}{\textsf{𐙚˚ ༘  ‎ ‎ ‎ all graphics on here have been made}}$<br>$\color{#d2e8bd}{\textsf{by myself. do NOT use.}}$<br>
- $\color{#ec6882}{\textsf{𐙚˚ ༘  ‎ ‎‎  i take prolonged breaks from pt very often.}}$<br>$\color{#ec6882}{\textsf{i apologize if this startles you, but i'm not}}$<br>$\color{#ec6882}{\textsf{someone who can be chronically online anymore.}}$
+ $\color{#ec6882}{\textsf{𐙚˚ ༘  ‎ ‎‎  i take prolonged breaks from pt very often.}}$<br>$\color{#ec6882}{\textsf{i apologize if this startles you, but i'm not}}$<br>$\color{#ec6882}{\textsf{someone who can be chronically online anymore.}}$<br>
+ $\color{#d2e8bd}{\textsf{𐙚˚ ༘  ‎ ‎ ‎ a tiny thing to note, i am a yumeshipper...}}$<br>$\color{#d2e8bd}{\textsf{HOWEVER, i do not talk about it if at all.}}$
 
 </details>
  </td>
