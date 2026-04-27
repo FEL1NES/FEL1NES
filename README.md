@@ -26,7 +26,7 @@
       <td>
         <div align="center">
 $\color{#D2E8BD}{\textsf{hi, i'm}}$ $\color{#c94c87}{\textsf{cat.}}$<br>
-$\color{#c94c87}{\textsf{they / she / nya}}$ $\color{#D2E8BD}{\textsf{+ 23 years old}}$ <br>
+$\color{#c94c87}{\textsf{they / she / nya}}$ $\color{#D2E8BD}{\textsf{+ 23 years old}}$ $\color{#c94c87}{\textsf{+ taken: 12/05/25}}$<br>
 <br>
 <sup><sup>$\color{#D2E8BD}{\textsf{i don't follow people back on github. this is not to say that i don't appreciate those who do follow me. (´▽`ʃ♡ƪ)}}$</sup></sup><br>
 <sup><sup>$\color{#D2E8BD}{\textsf{idgaf if your pony has the same colors as mine. nobody on this game owns a certain color palette.}}$</sup></sup><br>
